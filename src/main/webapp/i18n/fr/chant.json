@@ -1,0 +1,22 @@
+{
+    "songbookApp": {
+        "chant" : {
+            "home": {
+                "title": "Chants",
+                "createLabel": "Créer un nouveau Chant",
+                "createOrEditLabel": "Créer ou éditer un Chant"
+            },
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Chant {{ id }} ?"
+            },
+            "detail": {
+                "title": "Chant"
+            },
+            "name": "Name",
+            "number": "Number",
+            "lyric": "Lyric",
+            "image": "Image"
+        }
+    }
+}
+

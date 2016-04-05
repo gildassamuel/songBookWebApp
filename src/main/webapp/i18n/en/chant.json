@@ -1,0 +1,24 @@
+{
+    "songbookApp": {
+        "chant" : {
+            "home": {
+                "title": "Chants",
+                "createLabel": "Create a new Chant",
+                "createOrEditLabel": "Create or edit a Chant"
+            },
+            "created": "A new Chant is created with identifier {{ param }}",
+            "updated": "A Chant is updated with identifier {{ param }}",
+            "deleted": "A Chant is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Chant {{ id }}?"
+            },
+            "detail": {
+                "title": "Chant"
+            },
+            "name": "Name",
+            "number": "Number",
+            "lyric": "Lyric",
+            "image": "Image"
+        }
+    }
+}
